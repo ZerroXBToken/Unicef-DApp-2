@@ -52,7 +52,7 @@ document.write( '  <body>\n' );
 document.write( '   \n' );
 document.write( '    <div id=\"fr\">\n' );
 document.write( '      <div id=\"w\">\n' );
-document.write( '        <iframe src=\"/u-fr.html\" width=\"100%\" height=\"90%\" style=\"border: 2px solid #1db0ef;\"></iframe><a href=\"#\" class=\"close\" style=\"color:#666666;\">X</a>\n' );
+document.write( '        <iframe src=\"./u-fr.html\" width=\"100%\" height=\"90%\" style=\"border: 2px solid #1db0ef;\"></iframe><a href=\"#\" class=\"close\" style=\"color:#666666;\">X</a>\n' );
 document.write( '        \n' );
 document.write( '      </div>\n' );
 document.write( '    </div>\n' );
